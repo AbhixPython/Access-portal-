@@ -94,7 +94,7 @@ html_content = '''
 
             if (username === "SERVERX" && password === "007") {
                 // Redirect or open a new window
-                window.location.href = "https://service-1syc.onrender.com/"; // Replace with the link you want to open
+                window.location.href = "https://service-jlh6.onrender.com"; // Replace with the link you want to open
                 // or
                 // window.open("YOUR_SUCCESS_LINK", "_blank"); // Opens in a new tab
             } else {
